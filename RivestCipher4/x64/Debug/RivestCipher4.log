@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Visual Studio\Projects\RivestCipher4\RivestCipher4\Main.cpp(18,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RivestCipher4.vcxproj -> D:\Visual Studio\Projects\RivestCipher4\x64\Debug\RivestCipher4.exe
